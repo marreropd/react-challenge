@@ -23,7 +23,7 @@ function Login() {
       return;
     }
 
-    console.log("OK, estamos listos para enviar la informacion");
+    console.log("OK, estamos listos para enviar la información");
   };
   return (
     <>
